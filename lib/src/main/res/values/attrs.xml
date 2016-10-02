@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AwesomePieChart">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="iconSize" format="dimension"/>
+        <attr name="decorRingColor" format="color" />
+        <attr name="decorRingWeight" format="float" />
+        <attr name="innerHoleWeight" format="float" />
+    </declare-styleable>
+
+</resources>
