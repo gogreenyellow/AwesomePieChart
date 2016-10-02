@@ -15,10 +15,8 @@
  */
 package com.shaftapps.pglab.awesomepiechart.sample;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-import com.shaftapps.pglab.awesomepiechart.sample.R;
+import android.support.v7.app.AppCompatActivity;
 
 import com.shaftapps.pglab.awesomepiechart.AwesomePieChart;
 

@@ -1,4 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shaftapps.pglab.awesomepiechart">
+<manifest package="com.shaftapps.pglab.awesomepiechart">
 
 </manifest>
